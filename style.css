@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* bandeau nintendo */
+header #nintendo {
+    height: 90px;
+    width: 100%;
+    background: #e60012;
+    border-bottom: 1px solid #bf0010
+}
+
+#logo {
+    width: 200px;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+/* all div icon */
+#nintendo div {
+    float: right;
+    position:relative;
+    top: 20px;
+    color: white;
+    margin-left: 30px;
+}
+
+/* icon recherche*/
+#loupe {
+    width: 50px;
+    height: 40px;
+}
+
+.loupe {
+    display: inline-block;
+    margin-top: 0;
+}
+/* icon liste de souhaits*/
+.coeur {
+    display: inline-block;
+    text-align: center;
+}
+
+#coeur {
+     width: 50px;
+     height: 40px;
+     top: 0;
+ }
+/* icon panier */
+.pannier {
+    display: inline-block;
+    text-align: center;
+}
+
+#panier {
+    height: auto;
+    width: 45px;
+}
+/* icon connexion */
+.icon {
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+}
+
+#icon {
+    height: auto;
+    width: 35px;
+}
+
+/* bandeau vertical gauche */
+
+#menu {
+    width: 100px;
+    height: 750px;
+    background: #e60012;
+    border-right: 3px solid #bf0010;
+}
+
+#menu div {
+    border-bottom: 1px solid #bf0010;
+    height: 100px;
+    color: white;
+}
+
+/* button jeux */
+.jeux {
+    text-align: center;
+}
+
+#jeux {
+    height: auto;
+    width: 35px;
+    margin-top: 20px
+}
+/* button hardware */
+
+.croix {
+    text-align: center;
+}
+
+#croix {
+    height: auto;
+    width: 35px;
+    margin-top: 20px
+}
+
+/* button nintendo switch online */
+
+.switch {
+    text-align: center;
+}
+
+#switch {
+    height: auto;
+    width: 35px;
+    margin-top: 20px
+}
+/* button nintendo eshop */
+
+.bag {
+    text-align: center;
+}
+
+#bag {
+    height: auto;
+    width: 35px;
+    margin-top: 15px
+}
+/* button My Nintendo Store */
+
+.mario {
+    text-align: center;
+}
+
+#mario {
+    height: auto;
+    width: 35px;
+    margin-top: 15px
+}
+/* button assistance */
+
+.assistance {
+    text-align: center;
+}
+
+#assistance {
+    height: auto;
+    width: 100px;
+    margin-top: 5px
+}
+
+/* button News */
+
+.news {
+    text-align: center;
+}
+
+#nenws {
+    height: auto;
+    width: 80px;
+    margin-top: 5px
+}
+
+#red {
+    background: #bf0010;
+    border-right: 3px solid #bf0010;
+}
